@@ -11,7 +11,6 @@ import net.minecraft.world.World;
 
 public class EntityLMRBMob extends EntityAnimal {
 
-
     public EntityLMRBMob(World par1World) {
         super(par1World);
         this.setSize(0.3F, 0.4F);
