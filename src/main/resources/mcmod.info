@@ -1,0 +1,22 @@
+[
+{
+  "modid": "LetsModReboot",
+  "name": "Let's Mod Reboot",
+  "description": "Practicing minecraft modding with Pahimar.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "quitarboy25"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+    ""
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

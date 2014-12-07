@@ -1,0 +1,17 @@
+# Keys
+keys.letsmodreboot.category=Let's Mod Reboot
+keys.letsmodreboot.charge=Charge
+keys.letsmodreboot.release=Release
+
+# Creative Tabs
+itemGroup.LetsModReboot=Let's Mod Reboot
+
+# Items
+item.letsmodreboot:backpack.name=Backpack
+item.letsmodreboot:mapleLeaf.name=Maple Leaf
+
+# Blocks
+tile.letsmodreboot:flag.name=Finnish Flag
+
+#Mobs
+entity.LMRBMob.name=LMRB Mob
